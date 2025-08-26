@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SafeWeb - Fraudulent Site Identifier",
+  "description": "An application that allows users to check if a website is potentially fraudulent by providing a URL, uploading a file (like a screenshot), or pasting text for analysis using Gemini API.",
+  "requestFramePermissions": []
+}
